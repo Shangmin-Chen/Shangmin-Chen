@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangmin-chen&label=Profile%20views&color=0e75b6&style=flat" alt="shangmin-chen" /> </p>
 
-- 🔭 I’m currently working on [Auto Clicker](https://github.com/Shangmin-Chen/AutoClicker)
+- 🔭 I’m currently working on [RustPaint](https://github.com/Shangmin-Chen/RustPaint)
 
-- 🌱 I’m currently learning **Spring and Java**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **shangmin@bu.edu**
 
