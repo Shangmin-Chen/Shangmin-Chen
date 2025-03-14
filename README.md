@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [care](https://github.com/Shangmin-Chen/care)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Spring Framework**
 
-- 📫 How to reach me **shangmin@bu.edu**
+- 📫 How to reach me **shangminch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
