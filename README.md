@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangmin-chen&label=Profile%20views&color=0e75b6&style=flat" alt="shangmin-chen" /> </p>
 
-- 🔭 I’m currently working on [RustPaint](https://github.com/Shangmin-Chen/RustPaint)
+- 🔭 I’m currently working on [care](https://github.com/Shangmin-Chen/care)
 
 - 🌱 I’m currently learning **Rust**
 
