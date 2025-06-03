@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shangmin Chen</h1>
-<h3 align="center">A Junior studying Computer Science. Passionate about Software Engineering, Blockchains, and Full-Stack Development.</h3>
+<h3 align="center">An Uni student studying Computer Science. Passionate about Software Engineering, Blockchains, and Full-Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangmin-chen&label=Profile%20views&color=0e75b6&style=flat" alt="shangmin-chen" /> </p>
 
