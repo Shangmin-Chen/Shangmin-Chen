@@ -2,4 +2,4 @@ Check out my website @ https://www.simon-chen.com
 
 My linkedin @ https://www.linkedin.com/in/shangmin-chen
 
-Currently working on ezesports @ ez-esports.vercel.app
+Currently working on ezesports @ ezesports.org
